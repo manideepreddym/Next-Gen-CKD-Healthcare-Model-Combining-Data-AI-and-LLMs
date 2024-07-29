@@ -125,8 +125,8 @@ To run the `app.py` file and start the Streamlit application, follow these steps
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/kidney-care-ai.git
-   cd kidney-care-ai
+   (https://github.com/manideepreddym/Next-Gen-CKD-Healthcare-Model-Combining-Data-AI-and-LLMs.git)
+   cd Next-Gen-CKD-Healthcare-Model-Combining-Data-AI-and-LLMs
 ## Set Up a Virtual Environment:
 
 python -m venv venv
