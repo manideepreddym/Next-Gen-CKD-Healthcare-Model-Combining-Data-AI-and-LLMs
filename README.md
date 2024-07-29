@@ -118,3 +118,26 @@ We welcome contributions from the community. Please refer to the [CONTRIBUTING.m
 
 For any questions or feedback, please contact us at [manideepreddy966@gmail.com](mailto:manideepreddy966@gmail.com).
 
+
+## Running the Application
+
+To run the `app.py` file and start the Streamlit application, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/kidney-care-ai.git
+   cd kidney-care-ai
+## Set Up a Virtual Environment:
+
+python -m venv venv
+source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+
+## Install Required Dependencies:
+
+pip install -r requirements.txt
+
+## Run the Application:
+
+streamlit run app.py
+
+
