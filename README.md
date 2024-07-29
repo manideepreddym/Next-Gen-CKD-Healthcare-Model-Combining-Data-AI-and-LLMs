@@ -1,5 +1,5 @@
 # Kidney Care AI
-
+### '''Next-Gen-CKD-Healthcare-Model-Combining-Data-AI-and-LLMs'''
 ## Introduction
 
 Chronic Kidney Disease (CKD) is a progressive condition characterized by the gradual loss of kidney function over time. Effective management of CKD requires continuous monitoring and personalized treatment recommendations. Our goal with the Kidney Care AI tool is to streamline CKD management by providing tailored recommendations and actionable insights based on patient-specific data, thereby improving quality of life and health outcomes.
