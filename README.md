@@ -1,4 +1,4 @@
-e# Kidney Care AI
+# Kidney Care AI
 ### '''Next-Gen-CKD-Healthcare-Model-Combining-Data-AI-and-LLMs'''
 ## Introduction
 
